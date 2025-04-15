@@ -30,5 +30,3 @@ function HelpArea() {
 }
 
 export default HelpArea;
-
-// comment
